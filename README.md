@@ -14,6 +14,8 @@
    - Data Consortium / DAO Credentials (Dataspace X, DAO Y)
    - Data Security Credentials (ISO 27001)
 
+[![Gaia-X Portal SSI-Integration Demo](https://img.youtube.com/vi/kXsUhzFIksU/0.jpg)](https://www.youtube.com/watch?v=kXsUhzFIksU "Gaia-X Portal SSI-Integration Demo")
+
 
 | Credential    |  Schema |  Implementation |
 |----------|:-------------:|------:|  
