@@ -1,6 +1,10 @@
-# gaiax-waltid-docs
+# Gaia-X Self-Sovereign Identity powered by the Ocean Protocol
+
+This documentation outlines the usage of the walt.id SSI stack to build a SSI-based user-authentication solution. The demo-use case shows the Gaia-X Portal, which authenticates users by processing their presented _ParticipantCredential_ (see below).
+The architecture is built upon the SSI standards ([W3C Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/), [W3C Verifiable Credentials (VCs)](https://www.w3.org/TR/vc-data-model/),[Self-Issued OpenID Provider v2 (SIOPv2)](https://openid.net/specs/openid-connect-self-issued-v2-1_0-06.html), [OpenID Connect for Verifiable Presentations (OIDC4VP)](https://openid.net/specs/openid-connect-4-verifiable-presentations-1_0-07.html)) and utilizes the [Ocean Protocol](https://oceanprotocol.com/) as foundation.
 
 
+## Integration and Demo
 
 - Wallet integration: Delivery of a custodial wallet (incl. user interface) that enables people to connect to the marketplace.
 - Issuer & Verifier Portals: Delivery of portals that enable users to
@@ -16,6 +20,7 @@
 
 [![Gaia-X Portal SSI-Integration Demo](https://img.youtube.com/vi/kXsUhzFIksU/0.jpg)](https://www.youtube.com/watch?v=kXsUhzFIksU "Gaia-X Portal SSI-Integration Demo")
 
+## Credentials for Gaia-X
 
 | Credential    |  Schema |  Implementation |
 |----------|:-------------:|------:|  
