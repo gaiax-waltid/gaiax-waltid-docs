@@ -14,6 +14,8 @@ The demo can be accessed by the following links and credentials:
 - Gaia-X portal: https://gaiax-portal.walt.id
 - Web Wallet: https://wallet.walt.id
 
+Before running the demo, you need to select the right "ecosystem/did". Go to: Settings -> Ecosystems -> EBSI/ESSIF and select the "did:ebsi".
+
 Wallet-account with valid credential: **auth-ok@example.com**
 Wallet-account with invalid credential: **auth-fail@example.com**
 
